@@ -1,0 +1,19 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "Learning FullStack JavaScript Development: MongoDB, Node.js, React.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KuzscoTech/Learning-Full-Stack.git"
+  },
+  "author": "Kushal Bhandari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KuzscoTech/Learning-Full-Stack/issues"
+  },
+  "homepage": "https://github.com/KuzscoTech/Learning-Full-Stack#readme"
+}
